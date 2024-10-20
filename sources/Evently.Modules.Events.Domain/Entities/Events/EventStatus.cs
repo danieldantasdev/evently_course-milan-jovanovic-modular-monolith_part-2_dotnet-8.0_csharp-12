@@ -1,4 +1,4 @@
-namespace Evently.Modules.Events.Api.Events;
+namespace Evently.Modules.Events.Domain.Entities.Events;
 
 public enum EventStatus
 {
